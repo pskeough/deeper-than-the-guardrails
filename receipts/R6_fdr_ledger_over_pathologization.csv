@@ -1,0 +1,361 @@
+pair,variant,condition,dimension,group,n,residual,t,p,p_bh,sig_bh_.05
+Ministral,base,Clinical,race,White,120,7.621,13.941,0.000e+00,0.000e+00,True
+Ministral,base,Clinical,race,Black,120,7.541,13.348,0.000e+00,0.000e+00,True
+Ministral,base,Clinical,race,Hispanic,120,7.746,14.786,0.000e+00,0.000e+00,True
+Ministral,base,Clinical,race,Asian,119,8.104,15.219,0.000e+00,0.000e+00,True
+Ministral,base,Clinical,gender,Cisgender Man,150,5.928,11.728,0.000e+00,0.000e+00,True
+Ministral,base,Clinical,gender,Cisgender Woman,150,6.257,12.467,0.000e+00,0.000e+00,True
+Ministral,base,Clinical,ses,Low,200,12.718,82.113,0.000e+00,0.000e+00,True
+Ministral,base,Clinical,ses,Middle,199,6.787,24.476,0.000e+00,0.000e+00,True
+Ministral,base,Clinical,ses,High,200,2.998,11.395,0.000e+00,0.000e+00,True
+Ministral,base,Narrative,race,White,120,3.43,6.252,5.814e-08,6.502e-08,True
+Ministral,base,Narrative,race,Black,120,3.016,5.246,2.271e-06,2.485e-06,True
+Ministral,base,Narrative,race,Hispanic,120,2.879,5.087,4.027e-06,4.394e-06,True
+Ministral,base,Narrative,race,Asian,120,3.96,6.656,1.334e-08,1.535e-08,True
+Ministral,base,Narrative,gender,Cisgender Man,150,2.602,5.691,2.493e-07,2.762e-07,True
+Ministral,base,Narrative,gender,Cisgender Woman,150,2.464,4.629,1.503e-05,1.615e-05,True
+Ministral,base,Narrative,ses,Low,200,9.888,49.606,0.000e+00,0.000e+00,True
+Ministral,base,Narrative,ses,Middle,200,-0.078,-0.525,6.001e-01,6.018e-01,False
+Ministral,base,Narrative,ses,High,200,-1.262,-18.423,0.000e+00,0.000e+00,True
+Ministral,ablit,Clinical,race,White,120,7.521,13.396,0.000e+00,0.000e+00,True
+Ministral,ablit,Clinical,race,Black,120,7.383,12.91,0.000e+00,0.000e+00,True
+Ministral,ablit,Clinical,race,Hispanic,119,7.081,12.833,0.000e+00,0.000e+00,True
+Ministral,ablit,Clinical,race,Asian,118,7.716,14.297,0.000e+00,0.000e+00,True
+Ministral,ablit,Clinical,gender,Cisgender Man,150,5.895,11.517,0.000e+00,0.000e+00,True
+Ministral,ablit,Clinical,gender,Cisgender Woman,150,6.197,12.079,0.000e+00,0.000e+00,True
+Ministral,ablit,Clinical,ses,Low,198,12.617,84.319,0.000e+00,0.000e+00,True
+Ministral,ablit,Clinical,ses,Middle,199,6.54,24.038,0.000e+00,0.000e+00,True
+Ministral,ablit,Clinical,ses,High,199,2.436,9.862,6.661e-16,8.957e-16,True
+Ministral,ablit,Narrative,race,White,120,3.471,6.269,5.466e-08,6.132e-08,True
+Ministral,ablit,Narrative,race,Black,120,2.683,4.775,1.218e-05,1.317e-05,True
+Ministral,ablit,Narrative,race,Hispanic,120,2.921,5.297,1.889e-06,2.073e-06,True
+Ministral,ablit,Narrative,race,Asian,120,3.993,7.181,1.997e-09,2.328e-09,True
+Ministral,ablit,Narrative,gender,Cisgender Man,150,2.675,5.696,2.452e-07,2.725e-07,True
+Ministral,ablit,Narrative,gender,Cisgender Woman,150,2.477,4.958,4.362e-06,4.745e-06,True
+Ministral,ablit,Narrative,ses,Low,200,9.713,52.902,0.000e+00,0.000e+00,True
+Ministral,ablit,Narrative,ses,Middle,200,0.082,0.55,5.829e-01,5.862e-01,False
+Ministral,ablit,Narrative,ses,High,200,-1.237,-17.279,0.000e+00,0.000e+00,True
+Qwen3,base,Clinical,race,White,120,3.505,6.577,1.778e-08,2.027e-08,True
+Qwen3,base,Clinical,race,Black,119,2.934,5.639,5.601e-07,6.187e-07,True
+Qwen3,base,Clinical,race,Hispanic,120,2.838,6.515,2.226e-08,2.529e-08,True
+Qwen3,base,Clinical,race,Asian,119,4.095,8.309,4.114e-11,4.972e-11,True
+Qwen3,base,Clinical,gender,Cisgender Man,150,2.542,6.241,2.746e-08,3.100e-08,True
+Qwen3,base,Clinical,gender,Cisgender Woman,149,1.731,4.14,8.883e-05,9.435e-05,True
+Qwen3,base,Clinical,ses,Low,198,8.117,27.957,0.000e+00,0.000e+00,True
+Qwen3,base,Clinical,ses,Middle,200,2.037,8.863,6.151e-14,7.830e-14,True
+Qwen3,base,Clinical,ses,High,199,-0.89,-6.177,1.546e-08,1.768e-08,True
+Qwen3,base,Narrative,race,White,119,-1.24,-3.826,3.076e-04,3.248e-04,True
+Qwen3,base,Narrative,race,Black,119,-1.066,-2.777,7.135e-03,7.403e-03,True
+Qwen3,base,Narrative,race,Hispanic,119,-1.238,-3.486,9.027e-04,9.504e-04,True
+Qwen3,base,Narrative,race,Asian,119,0.255,0.619,5.363e-01,5.408e-01,False
+Qwen3,base,Narrative,gender,Cisgender Man,149,-1.156,-4.549,2.034e-05,2.173e-05,True
+Qwen3,base,Narrative,gender,Cisgender Woman,149,-1.463,-4.539,2.109e-05,2.247e-05,True
+Qwen3,base,Narrative,ses,Low,196,1.166,3.26,1.500e-03,1.570e-03,True
+Qwen3,base,Narrative,ses,Middle,200,-2.663,-23.674,0.000e+00,0.000e+00,True
+Qwen3,base,Narrative,ses,High,199,-2.227,,,,False
+Qwen3,ablit,Clinical,race,White,120,3.346,11.397,3.109e-15,4.088e-15,True
+Qwen3,ablit,Clinical,race,Black,120,2.991,10.088,1.297e-13,1.616e-13,True
+Qwen3,ablit,Clinical,race,Hispanic,120,3.346,11.73,1.332e-15,1.771e-15,True
+Qwen3,ablit,Clinical,race,Asian,120,4.31,15.019,0.000e+00,0.000e+00,True
+Qwen3,ablit,Clinical,gender,Cisgender Man,150,2.915,11.434,0.000e+00,0.000e+00,True
+Qwen3,ablit,Clinical,gender,Cisgender Woman,150,3.157,14.538,0.000e+00,0.000e+00,True
+Qwen3,ablit,Clinical,ses,Low,200,4.858,28.156,0.000e+00,0.000e+00,True
+Qwen3,ablit,Clinical,ses,Middle,200,3.562,30.314,0.000e+00,0.000e+00,True
+Qwen3,ablit,Clinical,ses,High,200,1.253,6.809,8.690e-10,1.016e-09,True
+Qwen3,ablit,Narrative,race,White,120,-0.162,-0.517,6.054e-01,6.054e-01,False
+Qwen3,ablit,Narrative,race,Black,120,-0.567,-1.933,5.696e-02,5.859e-02,False
+Qwen3,ablit,Narrative,race,Hispanic,120,-0.271,-0.881,3.800e-01,3.842e-01,False
+Qwen3,ablit,Narrative,race,Asian,120,0.793,2.635,1.044e-02,1.080e-02,True
+Qwen3,ablit,Narrative,gender,Cisgender Man,150,0.302,1.115,2.667e-01,2.728e-01,False
+Qwen3,ablit,Narrative,gender,Cisgender Woman,150,-0.27,-0.962,3.374e-01,3.432e-01,False
+Qwen3,ablit,Narrative,ses,Low,200,1.718,8.173,1.532e-12,1.870e-12,True
+Qwen3,ablit,Narrative,ses,Middle,200,-1.213,-6.959,4.347e-10,5.134e-10,True
+Qwen3,ablit,Narrative,ses,High,200,-1.787,-19.828,0.000e+00,0.000e+00,True
+Gemma,base,Clinical,race,White,120,8.905,26.181,0.000e+00,0.000e+00,True
+Gemma,base,Clinical,race,Black,120,8.216,22.767,0.000e+00,0.000e+00,True
+Gemma,base,Clinical,race,Hispanic,120,8.079,24.171,0.000e+00,0.000e+00,True
+Gemma,base,Clinical,race,Asian,120,8.785,26.607,0.000e+00,0.000e+00,True
+Gemma,base,Clinical,gender,Cisgender Man,150,7.548,25.35,0.000e+00,0.000e+00,True
+Gemma,base,Clinical,gender,Cisgender Woman,150,7.737,25.799,0.000e+00,0.000e+00,True
+Gemma,base,Clinical,ses,Low,200,11.313,87.502,0.000e+00,0.000e+00,True
+Gemma,base,Clinical,ses,Middle,200,7.167,41.645,0.000e+00,0.000e+00,True
+Gemma,base,Clinical,ses,High,200,5.898,52.109,0.000e+00,0.000e+00,True
+Gemma,base,Narrative,race,White,118,10.02,38.786,0.000e+00,0.000e+00,True
+Gemma,base,Narrative,race,Black,120,10.266,49.034,0.000e+00,0.000e+00,True
+Gemma,base,Narrative,race,Hispanic,120,10.579,53.641,0.000e+00,0.000e+00,True
+Gemma,base,Narrative,race,Asian,120,11.426,55.597,0.000e+00,0.000e+00,True
+Gemma,base,Narrative,gender,Cisgender Man,150,10.422,50.02,0.000e+00,0.000e+00,True
+Gemma,base,Narrative,gender,Cisgender Woman,148,10.192,53.409,0.000e+00,0.000e+00,True
+Gemma,base,Narrative,ses,Low,200,11.748,245.695,0.000e+00,0.000e+00,True
+Gemma,base,Narrative,ses,Middle,200,9.337,79.312,0.000e+00,0.000e+00,True
+Gemma,base,Narrative,ses,High,198,9.455,74.576,0.000e+00,0.000e+00,True
+Gemma,ablit,Clinical,race,White,120,8.563,144.821,0.000e+00,0.000e+00,True
+Gemma,ablit,Clinical,race,Black,120,8.375,143.899,0.000e+00,0.000e+00,True
+Gemma,ablit,Clinical,race,Hispanic,120,8.513,148.911,0.000e+00,0.000e+00,True
+Gemma,ablit,Clinical,race,Asian,120,9.36,142.084,0.000e+00,0.000e+00,True
+Gemma,ablit,Clinical,gender,Cisgender Man,150,8.942,165.713,0.000e+00,0.000e+00,True
+Gemma,ablit,Clinical,gender,Cisgender Woman,150,8.29,169.712,0.000e+00,0.000e+00,True
+Gemma,ablit,Clinical,ses,Low,200,7.718,200.874,0.000e+00,0.000e+00,True
+Gemma,ablit,Clinical,ses,Middle,200,8.407,192.545,0.000e+00,0.000e+00,True
+Gemma,ablit,Clinical,ses,High,200,8.968,214.77,0.000e+00,0.000e+00,True
+Gemma,ablit,Narrative,race,White,120,8.446,117.657,0.000e+00,0.000e+00,True
+Gemma,ablit,Narrative,race,Black,120,8.1,132.962,0.000e+00,0.000e+00,True
+Gemma,ablit,Narrative,race,Hispanic,120,8.363,126.949,0.000e+00,0.000e+00,True
+Gemma,ablit,Narrative,race,Asian,120,9.226,146.853,0.000e+00,0.000e+00,True
+Gemma,ablit,Narrative,gender,Cisgender Man,150,8.815,143.243,0.000e+00,0.000e+00,True
+Gemma,ablit,Narrative,gender,Cisgender Woman,150,8.124,146.383,0.000e+00,0.000e+00,True
+Gemma,ablit,Narrative,ses,Low,200,7.343,150.791,0.000e+00,0.000e+00,True
+Gemma,ablit,Narrative,ses,Middle,200,8.307,155.986,0.000e+00,0.000e+00,True
+Gemma,ablit,Narrative,ses,High,200,8.938,190.564,0.000e+00,0.000e+00,True
+GLM,base,Clinical,race,White,120,9.313,20.445,0.000e+00,0.000e+00,True
+GLM,base,Clinical,race,Black,120,9.133,19.945,0.000e+00,0.000e+00,True
+GLM,base,Clinical,race,Hispanic,120,8.996,19.835,0.000e+00,0.000e+00,True
+GLM,base,Clinical,race,Asian,120,10.218,20.977,0.000e+00,0.000e+00,True
+GLM,base,Clinical,gender,Cisgender Man,150,8.095,18.294,0.000e+00,0.000e+00,True
+GLM,base,Clinical,gender,Cisgender Woman,150,8.637,21.98,0.000e+00,0.000e+00,True
+GLM,base,Clinical,ses,Low,200,11.903,58.152,0.000e+00,0.000e+00,True
+GLM,base,Clinical,ses,Middle,200,9.762,39.051,0.000e+00,0.000e+00,True
+GLM,base,Clinical,ses,High,200,5.743,17.388,0.000e+00,0.000e+00,True
+GLM,base,Narrative,race,White,120,5.138,10.854,1.421e-14,1.829e-14,True
+GLM,base,Narrative,race,Black,120,5.508,12.093,4.441e-16,6.016e-16,True
+GLM,base,Narrative,race,Hispanic,120,6.213,12.691,0.000e+00,0.000e+00,True
+GLM,base,Narrative,race,Asian,120,6.368,13.259,0.000e+00,0.000e+00,True
+GLM,base,Narrative,gender,Cisgender Man,150,6.222,13.753,0.000e+00,0.000e+00,True
+GLM,base,Narrative,gender,Cisgender Woman,150,4.897,11.833,0.000e+00,0.000e+00,True
+GLM,base,Narrative,ses,Low,200,7.768,30.552,0.000e+00,0.000e+00,True
+GLM,base,Narrative,ses,Middle,200,6.132,18.245,0.000e+00,0.000e+00,True
+GLM,base,Narrative,ses,High,200,2.323,7.229,1.246e-10,1.501e-10,True
+GLM,ablit,Clinical,race,White,120,9.68,21.732,0.000e+00,0.000e+00,True
+GLM,ablit,Clinical,race,Black,120,10.116,25.966,0.000e+00,0.000e+00,True
+GLM,ablit,Clinical,race,Hispanic,120,9.929,23.811,0.000e+00,0.000e+00,True
+GLM,ablit,Clinical,race,Asian,120,10.093,24.835,0.000e+00,0.000e+00,True
+GLM,ablit,Clinical,gender,Cisgender Man,150,9.615,26.974,0.000e+00,0.000e+00,True
+GLM,ablit,Clinical,gender,Cisgender Woman,150,9.397,26.445,0.000e+00,0.000e+00,True
+GLM,ablit,Clinical,ses,Low,200,11.788,57.329,0.000e+00,0.000e+00,True
+GLM,ablit,Clinical,ses,Middle,200,10.182,46.774,0.000e+00,0.000e+00,True
+GLM,ablit,Clinical,ses,High,200,7.393,24.349,0.000e+00,0.000e+00,True
+GLM,ablit,Narrative,race,White,120,7.18,18.193,0.000e+00,0.000e+00,True
+GLM,ablit,Narrative,race,Black,120,7.033,15.293,0.000e+00,0.000e+00,True
+GLM,ablit,Narrative,race,Hispanic,120,7.863,21.705,0.000e+00,0.000e+00,True
+GLM,ablit,Narrative,race,Asian,120,7.651,19.818,0.000e+00,0.000e+00,True
+GLM,ablit,Narrative,gender,Cisgender Man,150,7.955,21.411,0.000e+00,0.000e+00,True
+GLM,ablit,Narrative,gender,Cisgender Woman,150,6.117,18.099,0.000e+00,0.000e+00,True
+GLM,ablit,Narrative,ses,Low,200,8.423,33.755,0.000e+00,0.000e+00,True
+GLM,ablit,Narrative,ses,Middle,200,7.487,25.497,0.000e+00,0.000e+00,True
+GLM,ablit,Narrative,ses,High,200,5.918,21.027,0.000e+00,0.000e+00,True
+Phi4,base,Clinical,race,White,120,8.155,19.262,0.000e+00,0.000e+00,True
+Phi4,base,Clinical,race,Black,120,7.633,17.352,0.000e+00,0.000e+00,True
+Phi4,base,Clinical,race,Hispanic,120,8.021,19.92,0.000e+00,0.000e+00,True
+Phi4,base,Clinical,race,Asian,120,9.185,23.621,0.000e+00,0.000e+00,True
+Phi4,base,Clinical,gender,Cisgender Man,150,8.235,22.564,0.000e+00,0.000e+00,True
+Phi4,base,Clinical,gender,Cisgender Woman,150,8.057,24.006,0.000e+00,0.000e+00,True
+Phi4,base,Clinical,ses,Low,200,11.858,97.993,0.000e+00,0.000e+00,True
+Phi4,base,Clinical,ses,Middle,200,7.492,38.649,0.000e+00,0.000e+00,True
+Phi4,base,Clinical,ses,High,200,4.578,25.818,0.000e+00,0.000e+00,True
+Phi4,base,Narrative,race,White,120,5.405,12.188,4.441e-16,6.016e-16,True
+Phi4,base,Narrative,race,Black,120,5.533,11.76,1.332e-15,1.771e-15,True
+Phi4,base,Narrative,race,Hispanic,120,4.771,10.135,1.128e-13,1.416e-13,True
+Phi4,base,Narrative,race,Asian,120,6.185,14.971,0.000e+00,0.000e+00,True
+Phi4,base,Narrative,gender,Cisgender Man,150,5.695,14.889,0.000e+00,0.000e+00,True
+Phi4,base,Narrative,gender,Cisgender Woman,150,4.77,11.894,0.000e+00,0.000e+00,True
+Phi4,base,Narrative,ses,Low,200,8.118,30.051,0.000e+00,0.000e+00,True
+Phi4,base,Narrative,ses,Middle,200,4.052,15.398,0.000e+00,0.000e+00,True
+Phi4,base,Narrative,ses,High,200,3.033,10.158,2.220e-16,3.054e-16,True
+Phi4,ablit,Clinical,race,White,120,6.188,16.042,0.000e+00,0.000e+00,True
+Phi4,ablit,Clinical,race,Black,120,6.208,15.634,0.000e+00,0.000e+00,True
+Phi4,ablit,Clinical,race,Hispanic,120,5.646,15.924,0.000e+00,0.000e+00,True
+Phi4,ablit,Clinical,race,Asian,120,7.385,21.442,0.000e+00,0.000e+00,True
+Phi4,ablit,Clinical,gender,Cisgender Man,150,6.388,21.615,0.000e+00,0.000e+00,True
+Phi4,ablit,Clinical,gender,Cisgender Woman,150,6.084,21.489,0.000e+00,0.000e+00,True
+Phi4,ablit,Clinical,ses,Low,200,9.178,61.14,0.000e+00,0.000e+00,True
+Phi4,ablit,Clinical,ses,Middle,200,5.922,41.165,0.000e+00,0.000e+00,True
+Phi4,ablit,Clinical,ses,High,200,3.308,17.69,0.000e+00,0.000e+00,True
+Phi4,ablit,Narrative,race,White,120,5.421,15.627,0.000e+00,0.000e+00,True
+Phi4,ablit,Narrative,race,Black,120,4.533,10.919,1.199e-14,1.554e-14,True
+Phi4,ablit,Narrative,race,Hispanic,120,4.038,9.819,2.918e-13,3.612e-13,True
+Phi4,ablit,Narrative,race,Asian,120,5.426,13.553,0.000e+00,0.000e+00,True
+Phi4,ablit,Narrative,gender,Cisgender Man,150,5.668,19.652,0.000e+00,0.000e+00,True
+Phi4,ablit,Narrative,gender,Cisgender Woman,150,5.01,16.499,0.000e+00,0.000e+00,True
+Phi4,ablit,Narrative,ses,Low,200,7.533,49.431,0.000e+00,0.000e+00,True
+Phi4,ablit,Narrative,ses,Middle,200,4.632,23.491,0.000e+00,0.000e+00,True
+Phi4,ablit,Narrative,ses,High,200,1.338,6.379,6.167e-09,7.119e-09,True
+Qwen2.5,base,Clinical,race,White,120,4.663,9.488,8.133e-13,1.003e-12,True
+Qwen2.5,base,Clinical,race,Black,120,5.425,11.476,2.665e-15,3.517e-15,True
+Qwen2.5,base,Clinical,race,Hispanic,120,4.746,10.091,1.286e-13,1.608e-13,True
+Qwen2.5,base,Clinical,race,Asian,120,5.501,12.589,0.000e+00,0.000e+00,True
+Qwen2.5,base,Clinical,gender,Cisgender Man,150,4.768,11.194,0.000e+00,0.000e+00,True
+Qwen2.5,base,Clinical,gender,Cisgender Woman,150,4.857,11.993,0.000e+00,0.000e+00,True
+Qwen2.5,base,Clinical,ses,Low,200,8.953,57.828,0.000e+00,0.000e+00,True
+Qwen2.5,base,Clinical,ses,Middle,200,4.952,22.839,0.000e+00,0.000e+00,True
+Qwen2.5,base,Clinical,ses,High,200,0.913,3.803,2.409e-04,2.551e-04,True
+Qwen2.5,base,Narrative,race,White,120,2.663,4.967,6.179e-06,6.701e-06,True
+Qwen2.5,base,Narrative,race,Black,120,3.05,5.549,7.572e-07,8.338e-07,True
+Qwen2.5,base,Narrative,race,Hispanic,120,3.338,6.508,2.285e-08,2.587e-08,True
+Qwen2.5,base,Narrative,race,Asian,120,3.751,7.482,6.828e-10,8.011e-10,True
+Qwen2.5,base,Narrative,gender,Cisgender Man,150,1.988,4.61,1.612e-05,1.728e-05,True
+Qwen2.5,base,Narrative,gender,Cisgender Woman,150,3.85,8.086,1.569e-11,1.903e-11,True
+Qwen2.5,base,Narrative,ses,Low,200,7.083,31.284,0.000e+00,0.000e+00,True
+Qwen2.5,base,Narrative,ses,Middle,200,3.357,9.279,8.882e-15,1.155e-14,True
+Qwen2.5,base,Narrative,ses,High,200,-1.282,-7.028,3.166e-10,3.751e-10,True
+Qwen2.5,ablit,Clinical,race,White,120,6.913,22.726,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Clinical,race,Black,120,7.491,26.661,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Clinical,race,Hispanic,120,6.846,22.938,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Clinical,race,Asian,120,7.018,23.803,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Clinical,gender,Cisgender Man,150,6.402,23.085,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Clinical,gender,Cisgender Woman,150,6.63,28.564,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Clinical,ses,Low,200,8.503,51.298,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Clinical,ses,Middle,200,6.637,40.999,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Clinical,ses,High,200,5.383,28.788,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Narrative,race,White,120,3.813,10.758,1.865e-14,2.391e-14,True
+Qwen2.5,ablit,Narrative,race,Black,120,4.075,11.136,6.661e-15,8.696e-15,True
+Qwen2.5,ablit,Narrative,race,Hispanic,120,4.354,12.382,2.220e-16,3.054e-16,True
+Qwen2.5,ablit,Narrative,race,Asian,120,4.685,15.259,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Narrative,gender,Cisgender Man,150,3.962,13.463,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Narrative,gender,Cisgender Woman,150,4.704,17.031,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Narrative,ses,Low,200,6.073,30.64,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Narrative,ses,Middle,200,4.117,22.522,0.000e+00,0.000e+00,True
+Qwen2.5,ablit,Narrative,ses,High,200,1.748,8.765,9.681e-14,1.224e-13,True
+Phi3med,base,Clinical,race,White,120,10.305,37.499,0.000e+00,0.000e+00,True
+Phi3med,base,Clinical,race,Black,120,10.258,37.266,0.000e+00,0.000e+00,True
+Phi3med,base,Clinical,race,Hispanic,120,9.846,40.939,0.000e+00,0.000e+00,True
+Phi3med,base,Clinical,race,Asian,120,10.401,38.661,0.000e+00,0.000e+00,True
+Phi3med,base,Clinical,gender,Cisgender Man,150,10.282,39.859,0.000e+00,0.000e+00,True
+Phi3med,base,Clinical,gender,Cisgender Woman,150,9.11,39.105,0.000e+00,0.000e+00,True
+Phi3med,base,Clinical,ses,Low,200,11.123,73.294,0.000e+00,0.000e+00,True
+Phi3med,base,Clinical,ses,Middle,200,9.047,55.136,0.000e+00,0.000e+00,True
+Phi3med,base,Clinical,ses,High,200,9.413,50.513,0.000e+00,0.000e+00,True
+Phi3med,base,Narrative,race,White,120,7.371,30.605,0.000e+00,0.000e+00,True
+Phi3med,base,Narrative,race,Black,120,7.175,26.444,0.000e+00,0.000e+00,True
+Phi3med,base,Narrative,race,Hispanic,120,7.613,32.214,0.000e+00,0.000e+00,True
+Phi3med,base,Narrative,race,Asian,120,8.251,39.891,0.000e+00,0.000e+00,True
+Phi3med,base,Narrative,gender,Cisgender Man,150,7.462,35.017,0.000e+00,0.000e+00,True
+Phi3med,base,Narrative,gender,Cisgender Woman,150,6.617,33.414,0.000e+00,0.000e+00,True
+Phi3med,base,Narrative,ses,Low,200,8.073,50.892,0.000e+00,0.000e+00,True
+Phi3med,base,Narrative,ses,Middle,200,7.202,50.437,0.000e+00,0.000e+00,True
+Phi3med,base,Narrative,ses,High,200,6.673,42.396,0.000e+00,0.000e+00,True
+Phi3med,ablit,Clinical,race,White,120,11.705,78.887,0.000e+00,0.000e+00,True
+Phi3med,ablit,Clinical,race,Black,120,11.491,67.697,0.000e+00,0.000e+00,True
+Phi3med,ablit,Clinical,race,Hispanic,120,11.171,70.718,0.000e+00,0.000e+00,True
+Phi3med,ablit,Clinical,race,Asian,120,12.285,77.415,0.000e+00,0.000e+00,True
+Phi3med,ablit,Clinical,gender,Cisgender Man,150,11.928,83.801,0.000e+00,0.000e+00,True
+Phi3med,ablit,Clinical,gender,Cisgender Woman,150,11.037,75.515,0.000e+00,0.000e+00,True
+Phi3med,ablit,Clinical,ses,Low,200,10.803,92.96,0.000e+00,0.000e+00,True
+Phi3med,ablit,Clinical,ses,Middle,200,11.207,91.438,0.000e+00,0.000e+00,True
+Phi3med,ablit,Clinical,ses,High,200,11.883,89.629,0.000e+00,0.000e+00,True
+Phi3med,ablit,Narrative,race,White,120,10.238,52.488,0.000e+00,0.000e+00,True
+Phi3med,ablit,Narrative,race,Black,120,10.008,51.924,0.000e+00,0.000e+00,True
+Phi3med,ablit,Narrative,race,Hispanic,120,10.546,62.761,0.000e+00,0.000e+00,True
+Phi3med,ablit,Narrative,race,Asian,120,11.36,63.852,0.000e+00,0.000e+00,True
+Phi3med,ablit,Narrative,gender,Cisgender Man,150,10.815,64.9,0.000e+00,0.000e+00,True
+Phi3med,ablit,Narrative,gender,Cisgender Woman,150,10.084,68.144,0.000e+00,0.000e+00,True
+Phi3med,ablit,Narrative,ses,Low,200,9.688,72.022,0.000e+00,0.000e+00,True
+Phi3med,ablit,Narrative,ses,Middle,200,10.152,73.015,0.000e+00,0.000e+00,True
+Phi3med,ablit,Narrative,ses,High,200,10.663,73.242,0.000e+00,0.000e+00,True
+Llama3.1,base,Clinical,race,White,120,8.596,22.395,0.000e+00,0.000e+00,True
+Llama3.1,base,Clinical,race,Black,120,8.125,20.644,0.000e+00,0.000e+00,True
+Llama3.1,base,Clinical,race,Hispanic,120,8.704,22.083,0.000e+00,0.000e+00,True
+Llama3.1,base,Clinical,race,Asian,120,8.793,22.78,0.000e+00,0.000e+00,True
+Llama3.1,base,Clinical,gender,Cisgender Man,150,7.595,20.837,0.000e+00,0.000e+00,True
+Llama3.1,base,Clinical,gender,Cisgender Woman,150,7.57,20.901,0.000e+00,0.000e+00,True
+Llama3.1,base,Clinical,ses,Low,200,9.598,37.725,0.000e+00,0.000e+00,True
+Llama3.1,base,Clinical,ses,Middle,200,7.907,27.969,0.000e+00,0.000e+00,True
+Llama3.1,base,Clinical,ses,High,200,7.163,23.885,0.000e+00,0.000e+00,True
+Llama3.1,base,Narrative,race,White,120,4.83,12.111,4.441e-16,6.016e-16,True
+Llama3.1,base,Narrative,race,Black,120,5.066,12.609,0.000e+00,0.000e+00,True
+Llama3.1,base,Narrative,race,Hispanic,120,4.554,11.549,2.220e-15,2.941e-15,True
+Llama3.1,base,Narrative,race,Asian,120,5.176,13.761,0.000e+00,0.000e+00,True
+Llama3.1,base,Narrative,gender,Cisgender Man,150,4.102,12.809,0.000e+00,0.000e+00,True
+Llama3.1,base,Narrative,gender,Cisgender Woman,150,3.937,10.794,6.661e-16,8.957e-16,True
+Llama3.1,base,Narrative,ses,Low,200,6.513,24.579,0.000e+00,0.000e+00,True
+Llama3.1,base,Narrative,ses,Middle,200,3.612,13.504,0.000e+00,0.000e+00,True
+Llama3.1,base,Narrative,ses,High,200,4.018,14.801,0.000e+00,0.000e+00,True
+Llama3.1,ablit,Clinical,race,White,120,1.963,6.162,8.082e-08,9.010e-08,True
+Llama3.1,ablit,Clinical,race,Black,120,2.583,7.919,1.471e-10,1.760e-10,True
+Llama3.1,ablit,Clinical,race,Hispanic,120,2.138,6.616,1.541e-08,1.768e-08,True
+Llama3.1,ablit,Clinical,race,Asian,120,3.168,9.416,1.018e-12,1.247e-12,True
+Llama3.1,ablit,Clinical,gender,Cisgender Man,150,1.848,6.835,2.463e-09,2.861e-09,True
+Llama3.1,ablit,Clinical,gender,Cisgender Woman,150,1.93,6.228,2.896e-08,3.259e-08,True
+Llama3.1,ablit,Clinical,ses,Low,200,4.423,19.869,0.000e+00,0.000e+00,True
+Llama3.1,ablit,Clinical,ses,Middle,200,0.532,3.317,1.241e-03,1.302e-03,True
+Llama3.1,ablit,Clinical,ses,High,200,1.323,7.711,1.320e-11,1.607e-11,True
+Llama3.1,ablit,Narrative,race,White,119,-0.341,-1.358,1.778e-01,1.824e-01,False
+Llama3.1,ablit,Narrative,race,Black,120,-0.3,-1.104,2.720e-01,2.774e-01,False
+Llama3.1,ablit,Narrative,race,Hispanic,120,-0.654,-2.905,5.005e-03,5.208e-03,True
+Llama3.1,ablit,Narrative,race,Asian,120,0.218,0.906,3.664e-01,3.716e-01,False
+Llama3.1,ablit,Narrative,gender,Cisgender Man,149,-0.418,-2.156,3.376e-02,3.482e-02,True
+Llama3.1,ablit,Narrative,gender,Cisgender Woman,150,-0.996,-4.63,1.499e-05,1.615e-05,True
+Llama3.1,ablit,Narrative,ses,Low,200,0.628,3.088,2.555e-03,2.667e-03,True
+Llama3.1,ablit,Narrative,ses,Middle,199,-1.525,-13.174,0.000e+00,0.000e+00,True
+Llama3.1,ablit,Narrative,ses,High,200,-1.087,-11.396,0.000e+00,0.000e+00,True
+DeepSeekR1,base,Clinical,race,White,120,6.413,12.171,4.441e-16,6.016e-16,True
+DeepSeekR1,base,Clinical,race,Black,119,7.859,14.999,0.000e+00,0.000e+00,True
+DeepSeekR1,base,Clinical,race,Hispanic,120,7.446,17.368,0.000e+00,0.000e+00,True
+DeepSeekR1,base,Clinical,race,Asian,120,8.076,16.14,0.000e+00,0.000e+00,True
+DeepSeekR1,base,Clinical,gender,Cisgender Man,150,6.582,14.211,0.000e+00,0.000e+00,True
+DeepSeekR1,base,Clinical,gender,Cisgender Woman,150,6.917,16.769,0.000e+00,0.000e+00,True
+DeepSeekR1,base,Clinical,ses,Low,200,9.758,28.762,0.000e+00,0.000e+00,True
+DeepSeekR1,base,Clinical,ses,Middle,199,6.405,19.674,0.000e+00,0.000e+00,True
+DeepSeekR1,base,Clinical,ses,High,200,5.363,16.151,0.000e+00,0.000e+00,True
+DeepSeekR1,base,Narrative,race,White,119,3.357,7.617,4.474e-10,5.266e-10,True
+DeepSeekR1,base,Narrative,race,Black,120,3.841,7.951,1.316e-10,1.580e-10,True
+DeepSeekR1,base,Narrative,race,Hispanic,120,3.696,7.76,2.559e-10,3.051e-10,True
+DeepSeekR1,base,Narrative,race,Asian,119,3.818,7.776,2.567e-10,3.051e-10,True
+DeepSeekR1,base,Narrative,gender,Cisgender Man,150,4.015,9.437,8.260e-14,1.048e-13,True
+DeepSeekR1,base,Narrative,gender,Cisgender Woman,149,3.443,9.657,3.908e-14,4.993e-14,True
+DeepSeekR1,base,Narrative,ses,Low,199,5.336,18.25,0.000e+00,0.000e+00,True
+DeepSeekR1,base,Narrative,ses,Middle,200,2.902,8.306,8.202e-13,1.008e-12,True
+DeepSeekR1,base,Narrative,ses,High,198,2.091,6.426,5.137e-09,5.949e-09,True
+DeepSeekR1,ablit,Clinical,race,White,120,5.871,16.741,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Clinical,race,Black,120,5.283,13.193,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Clinical,race,Hispanic,120,5.663,16.194,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Clinical,race,Asian,120,6.193,15.993,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Clinical,gender,Cisgender Man,150,6.082,16.906,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Clinical,gender,Cisgender Woman,150,5.824,18.102,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Clinical,ses,Low,200,5.328,19.873,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Clinical,ses,Middle,200,5.432,21.263,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Clinical,ses,High,200,5.883,19.6,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Narrative,race,White,120,4.338,9.939,2.029e-13,2.521e-13,True
+DeepSeekR1,ablit,Narrative,race,Black,120,4.375,10.185,9.726e-14,1.225e-13,True
+DeepSeekR1,ablit,Narrative,race,Hispanic,120,4.379,11.361,3.553e-15,4.655e-15,True
+DeepSeekR1,ablit,Narrative,race,Asian,120,4.643,11.837,8.882e-16,1.190e-15,True
+DeepSeekR1,ablit,Narrative,gender,Cisgender Man,150,3.828,9.922,1.377e-14,1.778e-14,True
+DeepSeekR1,ablit,Narrative,gender,Cisgender Woman,150,4.65,13.217,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Narrative,ses,Low,200,4.673,16.256,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Narrative,ses,Middle,200,3.182,10.236,0.000e+00,0.000e+00,True
+DeepSeekR1,ablit,Narrative,ses,High,200,4.313,13.04,0.000e+00,0.000e+00,True
+Yi1.5,base,Clinical,race,White,120,11.113,31.611,0.000e+00,0.000e+00,True
+Yi1.5,base,Clinical,race,Black,120,10.708,31.129,0.000e+00,0.000e+00,True
+Yi1.5,base,Clinical,race,Hispanic,120,10.671,32.736,0.000e+00,0.000e+00,True
+Yi1.5,base,Clinical,race,Asian,120,11.843,32.485,0.000e+00,0.000e+00,True
+Yi1.5,base,Clinical,gender,Cisgender Man,150,10.088,31.137,0.000e+00,0.000e+00,True
+Yi1.5,base,Clinical,gender,Cisgender Woman,150,9.677,30.958,0.000e+00,0.000e+00,True
+Yi1.5,base,Clinical,ses,Low,200,11.638,56.339,0.000e+00,0.000e+00,True
+Yi1.5,base,Clinical,ses,Middle,200,11.172,42.742,0.000e+00,0.000e+00,True
+Yi1.5,base,Clinical,ses,High,200,8.908,37.388,0.000e+00,0.000e+00,True
+Yi1.5,base,Narrative,race,White,120,9.171,20.819,0.000e+00,0.000e+00,True
+Yi1.5,base,Narrative,race,Black,120,8.091,16.964,0.000e+00,0.000e+00,True
+Yi1.5,base,Narrative,race,Hispanic,120,8.938,20.199,0.000e+00,0.000e+00,True
+Yi1.5,base,Narrative,race,Asian,120,9.86,21.334,0.000e+00,0.000e+00,True
+Yi1.5,base,Narrative,gender,Cisgender Man,150,7.982,20.029,0.000e+00,0.000e+00,True
+Yi1.5,base,Narrative,gender,Cisgender Woman,150,8.144,23.325,0.000e+00,0.000e+00,True
+Yi1.5,base,Narrative,ses,Low,200,11.033,41.728,0.000e+00,0.000e+00,True
+Yi1.5,base,Narrative,ses,Middle,200,8.737,29.986,0.000e+00,0.000e+00,True
+Yi1.5,base,Narrative,ses,High,200,6.413,19.055,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Clinical,race,White,120,9.771,24.749,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Clinical,race,Black,120,9.383,24.467,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Clinical,race,Hispanic,120,9.079,24.216,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Clinical,race,Asian,120,10.026,24.8,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Clinical,gender,Cisgender Man,150,9.788,30.039,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Clinical,gender,Cisgender Woman,150,8.05,23.39,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Clinical,ses,Low,200,9.793,33.626,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Clinical,ses,Middle,200,9.332,33.333,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Clinical,ses,High,200,8.558,29.534,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Narrative,race,White,120,8.238,23.404,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Narrative,race,Black,120,8.083,19.84,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Narrative,race,Hispanic,120,9.313,24.652,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Narrative,race,Asian,120,8.985,21.814,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Narrative,gender,Cisgender Man,150,8.135,23.83,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Narrative,gender,Cisgender Woman,150,7.884,24.942,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Narrative,ses,Low,200,9.108,35.719,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Narrative,ses,Middle,200,7.727,25.734,0.000e+00,0.000e+00,True
+Yi1.5,ablit,Narrative,ses,High,200,7.988,27.559,0.000e+00,0.000e+00,True

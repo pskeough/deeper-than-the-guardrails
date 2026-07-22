@@ -1,0 +1,22 @@
+race,gender,ses,n_models,cross_model_mean,old_residual_vs_race_gt,old_gt,new_anchor,new_residual,status
+Black,Transgender Woman,Low,20,14.84,11.63,3.21,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+Multiracial,Transgender Woman,Low,20,14.495,11.495,3.0,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+Multiracial,Transgender Man,Low,20,14.324,11.324,3.0,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+Black,Transgender Man,Low,20,14.285,11.075,3.21,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+Asian,Transgender Woman,Low,20,14.245,12.015,2.23,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+White,Transgender Woman,Low,20,14.22,11.03,3.19,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+Hispanic,Transgender Woman,Low,20,14.17,11.02,3.15,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+Black,Cisgender Woman,Low,20,14.03,10.82,3.21,gold SES-Low 4.247,9.783,CORRECTED
+Multiracial,Cisgender Woman,Low,20,13.926,10.926,3.0,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+White,Transgender Man,Low,20,13.915,10.725,3.19,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+Asian,Transgender Man,Low,20,13.884,11.654,2.23,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+White,Cisgender Woman,Low,20,13.795,10.605,3.19,gold SES-Low 4.247,9.548,CORRECTED
+Hispanic,Transgender Man,Low,20,13.74,10.59,3.15,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+Asian,Cisgender Woman,Low,20,13.565,11.335,2.23,gold SES-Low 4.247,9.318,CORRECTED
+White,Cisgender Man,Low,20,13.405,10.215,3.19,gold SES-Low 4.247,9.158,CORRECTED
+Hispanic,Cisgender Woman,Low,20,13.4,10.25,3.15,gold SES-Low 4.247,9.153,CORRECTED
+Black,Cisgender Man,Low,20,13.395,10.185,3.21,gold SES-Low 4.247,9.148,CORRECTED
+Multiracial,Cisgender Man,Low,20,13.22,10.22,3.0,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial
+Hispanic,Cisgender Man,Low,20,13.2,10.05,3.15,gold SES-Low 4.247,8.953,CORRECTED
+Asian,Cisgender Man,Low,20,12.865,10.635,2.23,gold SES-Low 4.247,8.618,CORRECTED
+Black,Transgender Woman,Middle,20,11.837,8.627,3.21,UNBENCHMARKABLE (Trans/Multiracial),DROPPED,WITHDRAWN_trans_or_multiracial

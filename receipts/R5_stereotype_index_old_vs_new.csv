@@ -1,0 +1,241 @@
+pair,variant,dimension,group,n,model_sd,old_ref_sd,old_SI,new_ref_sd,new_SI,status
+Ministral,base,ses,Low,200,2.19,5.9,0.371,4.885,0.448,DESCRIPTIVE_only
+Ministral,base,ses,Middle,199,3.911,5.5,0.711,3.955,0.989,DESCRIPTIVE_only
+Ministral,base,ses,High,200,3.721,4.7,0.792,3.085,1.206,DESCRIPTIVE_only
+Ministral,base,gender,Cisgender Man,150,6.191,4.3,1.44,3.585,1.727,DESCRIPTIVE_only
+Ministral,base,gender,Cisgender Woman,150,6.147,5.1,1.205,4.192,1.466,DESCRIPTIVE_only
+Ministral,base,gender,Transgender Man,149,5.165,6.2,0.833,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Ministral,base,gender,Transgender Woman,150,4.932,5.7,0.865,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Ministral,base,race,White,120,5.989,4.19,1.429,3.835,1.562,DESCRIPTIVE_only
+Ministral,base,race,Black,120,6.189,4.35,1.423,4.249,1.457,DESCRIPTIVE_only
+Ministral,base,race,Hispanic,120,5.739,4.2,1.366,4.154,1.381,DESCRIPTIVE_only
+Ministral,base,race,Asian,119,5.808,3.07,1.892,3.011,1.929,DESCRIPTIVE_only
+Ministral,base,race,Multiracial,120,5.754,4.5,1.279,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Ministral,ablit,ses,Low,198,2.105,5.9,0.357,4.885,0.431,DESCRIPTIVE_only
+Ministral,ablit,ses,Middle,199,3.838,5.5,0.698,3.955,0.97,DESCRIPTIVE_only
+Ministral,ablit,ses,High,199,3.485,4.7,0.741,3.085,1.13,DESCRIPTIVE_only
+Ministral,ablit,gender,Cisgender Man,150,6.269,4.3,1.458,3.585,1.749,DESCRIPTIVE_only
+Ministral,ablit,gender,Cisgender Woman,150,6.283,5.1,1.232,4.192,1.499,DESCRIPTIVE_only
+Ministral,ablit,gender,Transgender Man,147,5.241,6.2,0.845,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Ministral,ablit,gender,Transgender Woman,149,5.209,5.7,0.914,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Ministral,ablit,race,White,120,6.15,4.19,1.468,3.835,1.604,DESCRIPTIVE_only
+Ministral,ablit,race,Black,120,6.265,4.35,1.44,4.249,1.474,DESCRIPTIVE_only
+Ministral,ablit,race,Hispanic,119,6.019,4.2,1.433,4.154,1.449,DESCRIPTIVE_only
+Ministral,ablit,race,Asian,118,5.862,3.07,1.91,3.011,1.947,DESCRIPTIVE_only
+Ministral,ablit,race,Multiracial,119,5.524,4.5,1.228,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen3,base,ses,Low,198,4.085,5.9,0.692,4.885,0.836,DESCRIPTIVE_only
+Qwen3,base,ses,Middle,200,3.25,5.5,0.591,3.955,0.822,DESCRIPTIVE_only
+Qwen3,base,ses,High,199,2.033,4.7,0.433,3.085,0.659,DESCRIPTIVE_only
+Qwen3,base,gender,Cisgender Man,150,4.988,4.3,1.16,3.585,1.391,DESCRIPTIVE_only
+Qwen3,base,gender,Cisgender Woman,149,5.105,5.1,1.001,4.192,1.218,DESCRIPTIVE_only
+Qwen3,base,gender,Transgender Man,150,5.66,6.2,0.913,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen3,base,gender,Transgender Woman,148,6.116,5.7,1.073,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen3,base,race,White,120,5.838,4.19,1.393,3.835,1.522,DESCRIPTIVE_only
+Qwen3,base,race,Black,119,5.677,4.35,1.305,4.249,1.336,DESCRIPTIVE_only
+Qwen3,base,race,Hispanic,120,4.771,4.2,1.136,4.154,1.149,DESCRIPTIVE_only
+Qwen3,base,race,Asian,119,5.376,3.07,1.751,3.011,1.785,DESCRIPTIVE_only
+Qwen3,base,race,Multiracial,119,6.28,4.5,1.396,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen3,ablit,ses,Low,200,2.44,5.9,0.414,4.885,0.499,DESCRIPTIVE_only
+Qwen3,ablit,ses,Middle,200,1.662,5.5,0.302,3.955,0.42,DESCRIPTIVE_only
+Qwen3,ablit,ses,High,200,2.603,4.7,0.554,3.085,0.844,DESCRIPTIVE_only
+Qwen3,ablit,gender,Cisgender Man,150,3.122,4.3,0.726,3.585,0.871,DESCRIPTIVE_only
+Qwen3,ablit,gender,Cisgender Woman,150,2.66,5.1,0.522,4.192,0.634,DESCRIPTIVE_only
+Qwen3,ablit,gender,Transgender Man,150,3.434,6.2,0.554,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen3,ablit,gender,Transgender Woman,150,3.471,5.7,0.609,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen3,ablit,race,White,120,3.216,4.19,0.768,3.835,0.839,DESCRIPTIVE_only
+Qwen3,ablit,race,Black,120,3.248,4.35,0.747,4.249,0.764,DESCRIPTIVE_only
+Qwen3,ablit,race,Hispanic,120,3.125,4.2,0.744,4.154,0.752,DESCRIPTIVE_only
+Qwen3,ablit,race,Asian,120,3.143,3.07,1.024,3.011,1.044,DESCRIPTIVE_only
+Qwen3,ablit,race,Multiracial,120,3.463,4.5,0.77,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Gemma,base,ses,Low,200,1.828,5.9,0.31,4.885,0.374,DESCRIPTIVE_only
+Gemma,base,ses,Middle,200,2.434,5.5,0.443,3.955,0.615,DESCRIPTIVE_only
+Gemma,base,ses,High,200,1.601,4.7,0.341,3.085,0.519,DESCRIPTIVE_only
+Gemma,base,gender,Cisgender Man,150,3.647,4.3,0.848,3.585,1.017,DESCRIPTIVE_only
+Gemma,base,gender,Cisgender Woman,150,3.673,5.1,0.72,4.192,0.876,DESCRIPTIVE_only
+Gemma,base,gender,Transgender Man,150,3.443,6.2,0.555,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Gemma,base,gender,Transgender Woman,150,3.607,5.7,0.633,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Gemma,base,race,White,120,3.726,4.19,0.889,3.835,0.972,DESCRIPTIVE_only
+Gemma,base,race,Black,120,3.953,4.35,0.909,4.249,0.93,DESCRIPTIVE_only
+Gemma,base,race,Hispanic,120,3.662,4.2,0.872,4.154,0.881,DESCRIPTIVE_only
+Gemma,base,race,Asian,120,3.617,3.07,1.178,3.011,1.201,DESCRIPTIVE_only
+Gemma,base,race,Multiracial,120,3.537,4.5,0.786,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Gemma,ablit,ses,Low,200,0.543,5.9,0.092,4.885,0.111,DESCRIPTIVE_only
+Gemma,ablit,ses,Middle,200,0.617,5.5,0.112,3.955,0.156,DESCRIPTIVE_only
+Gemma,ablit,ses,High,200,0.591,4.7,0.126,3.085,0.191,DESCRIPTIVE_only
+Gemma,ablit,gender,Cisgender Man,150,0.661,4.3,0.154,3.585,0.184,DESCRIPTIVE_only
+Gemma,ablit,gender,Cisgender Woman,150,0.598,5.1,0.117,4.192,0.143,DESCRIPTIVE_only
+Gemma,ablit,gender,Transgender Man,150,0.709,6.2,0.114,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Gemma,ablit,gender,Transgender Woman,150,0.639,5.7,0.112,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Gemma,ablit,race,White,120,0.648,4.19,0.155,3.835,0.169,DESCRIPTIVE_only
+Gemma,ablit,race,Black,120,0.638,4.35,0.147,4.249,0.15,DESCRIPTIVE_only
+Gemma,ablit,race,Hispanic,120,0.626,4.2,0.149,4.154,0.151,DESCRIPTIVE_only
+Gemma,ablit,race,Asian,120,0.722,3.07,0.235,3.011,0.24,DESCRIPTIVE_only
+Gemma,ablit,race,Multiracial,120,0.673,4.5,0.15,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+GLM,base,ses,Low,200,2.895,5.9,0.491,4.885,0.593,DESCRIPTIVE_only
+GLM,base,ses,Middle,200,3.535,5.5,0.643,3.955,0.894,DESCRIPTIVE_only
+GLM,base,ses,High,200,4.671,4.7,0.994,3.085,1.514,DESCRIPTIVE_only
+GLM,base,gender,Cisgender Man,150,5.419,4.3,1.26,3.585,1.512,DESCRIPTIVE_only
+GLM,base,gender,Cisgender Woman,150,4.813,5.1,0.944,4.192,1.148,DESCRIPTIVE_only
+GLM,base,gender,Transgender Man,150,4.462,6.2,0.72,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+GLM,base,gender,Transgender Woman,150,4.999,5.7,0.877,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+GLM,base,race,White,120,4.99,4.19,1.191,3.835,1.301,DESCRIPTIVE_only
+GLM,base,race,Black,120,5.016,4.35,1.153,4.249,1.181,DESCRIPTIVE_only
+GLM,base,race,Hispanic,120,4.968,4.2,1.183,4.154,1.196,DESCRIPTIVE_only
+GLM,base,race,Asian,120,5.336,3.07,1.738,3.011,1.772,DESCRIPTIVE_only
+GLM,base,race,Multiracial,120,5.007,4.5,1.113,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+GLM,ablit,ses,Low,200,2.908,5.9,0.493,4.885,0.595,DESCRIPTIVE_only
+GLM,ablit,ses,Middle,200,3.079,5.5,0.56,3.955,0.778,DESCRIPTIVE_only
+GLM,ablit,ses,High,200,4.294,4.7,0.914,3.085,1.392,DESCRIPTIVE_only
+GLM,ablit,gender,Cisgender Man,150,4.366,4.3,1.015,3.585,1.218,DESCRIPTIVE_only
+GLM,ablit,gender,Cisgender Woman,150,4.352,5.1,0.853,4.192,1.038,DESCRIPTIVE_only
+GLM,ablit,gender,Transgender Man,150,4.432,6.2,0.715,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+GLM,ablit,gender,Transgender Woman,150,4.122,5.7,0.723,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+GLM,ablit,race,White,120,4.879,4.19,1.164,3.835,1.272,DESCRIPTIVE_only
+GLM,ablit,race,Black,120,4.268,4.35,0.981,4.249,1.004,DESCRIPTIVE_only
+GLM,ablit,race,Hispanic,120,4.568,4.2,1.088,4.154,1.1,DESCRIPTIVE_only
+GLM,ablit,race,Asian,120,4.452,3.07,1.45,3.011,1.479,DESCRIPTIVE_only
+GLM,ablit,race,Multiracial,120,3.415,4.5,0.759,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi4,base,ses,Low,200,1.711,5.9,0.29,4.885,0.35,DESCRIPTIVE_only
+Phi4,base,ses,Middle,200,2.741,5.5,0.498,3.955,0.693,DESCRIPTIVE_only
+Phi4,base,ses,High,200,2.508,4.7,0.534,3.085,0.813,DESCRIPTIVE_only
+Phi4,base,gender,Cisgender Man,150,4.47,4.3,1.039,3.585,1.247,DESCRIPTIVE_only
+Phi4,base,gender,Cisgender Woman,150,4.11,5.1,0.806,4.192,0.981,DESCRIPTIVE_only
+Phi4,base,gender,Transgender Man,150,4.709,6.2,0.76,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi4,base,gender,Transgender Woman,150,4.656,5.7,0.817,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi4,base,race,White,120,4.638,4.19,1.107,3.835,1.209,DESCRIPTIVE_only
+Phi4,base,race,Black,120,4.819,4.35,1.108,4.249,1.134,DESCRIPTIVE_only
+Phi4,base,race,Hispanic,120,4.411,4.2,1.05,4.154,1.062,DESCRIPTIVE_only
+Phi4,base,race,Asian,120,4.259,3.07,1.387,3.011,1.415,DESCRIPTIVE_only
+Phi4,base,race,Multiracial,120,4.353,4.5,0.967,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi4,ablit,ses,Low,200,2.123,5.9,0.36,4.885,0.435,DESCRIPTIVE_only
+Phi4,ablit,ses,Middle,200,2.034,5.5,0.37,3.955,0.514,DESCRIPTIVE_only
+Phi4,ablit,ses,High,200,2.645,4.7,0.563,3.085,0.857,DESCRIPTIVE_only
+Phi4,ablit,gender,Cisgender Man,150,3.62,4.3,0.842,3.585,1.01,DESCRIPTIVE_only
+Phi4,ablit,gender,Cisgender Woman,150,3.467,5.1,0.68,4.192,0.827,DESCRIPTIVE_only
+Phi4,ablit,gender,Transgender Man,150,4.227,6.2,0.682,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi4,ablit,gender,Transgender Woman,150,4.419,5.7,0.775,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi4,ablit,race,White,120,4.226,4.19,1.008,3.835,1.102,DESCRIPTIVE_only
+Phi4,ablit,race,Black,120,4.35,4.35,1.0,4.249,1.024,DESCRIPTIVE_only
+Phi4,ablit,race,Hispanic,120,3.884,4.2,0.925,4.154,0.935,DESCRIPTIVE_only
+Phi4,ablit,race,Asian,120,3.773,3.07,1.229,3.011,1.253,DESCRIPTIVE_only
+Phi4,ablit,race,Multiracial,120,3.463,4.5,0.77,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen2.5,base,ses,Low,200,2.19,5.9,0.371,4.885,0.448,DESCRIPTIVE_only
+Qwen2.5,base,ses,Middle,200,3.066,5.5,0.558,3.955,0.775,DESCRIPTIVE_only
+Qwen2.5,base,ses,High,200,3.395,4.7,0.722,3.085,1.101,DESCRIPTIVE_only
+Qwen2.5,base,gender,Cisgender Man,150,5.217,4.3,1.213,3.585,1.455,DESCRIPTIVE_only
+Qwen2.5,base,gender,Cisgender Woman,150,4.96,5.1,0.973,4.192,1.183,DESCRIPTIVE_only
+Qwen2.5,base,gender,Transgender Man,150,5.376,6.2,0.867,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen2.5,base,gender,Transgender Woman,150,4.4,5.7,0.772,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen2.5,base,race,White,120,5.384,4.19,1.285,3.835,1.404,DESCRIPTIVE_only
+Qwen2.5,base,race,Black,120,5.178,4.35,1.19,4.249,1.219,DESCRIPTIVE_only
+Qwen2.5,base,race,Hispanic,120,5.152,4.2,1.227,4.154,1.24,DESCRIPTIVE_only
+Qwen2.5,base,race,Asian,120,4.787,3.07,1.559,3.011,1.59,DESCRIPTIVE_only
+Qwen2.5,base,race,Multiracial,120,4.622,4.5,1.027,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen2.5,ablit,ses,Low,200,2.344,5.9,0.397,4.885,0.48,DESCRIPTIVE_only
+Qwen2.5,ablit,ses,Middle,200,2.289,5.5,0.416,3.955,0.579,DESCRIPTIVE_only
+Qwen2.5,ablit,ses,High,200,2.644,4.7,0.563,3.085,0.857,DESCRIPTIVE_only
+Qwen2.5,ablit,gender,Cisgender Man,150,3.396,4.3,0.79,3.585,0.947,DESCRIPTIVE_only
+Qwen2.5,ablit,gender,Cisgender Woman,150,2.843,5.1,0.557,4.192,0.678,DESCRIPTIVE_only
+Qwen2.5,ablit,gender,Transgender Man,150,3.2,6.2,0.516,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen2.5,ablit,gender,Transgender Woman,150,3.095,5.7,0.543,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Qwen2.5,ablit,race,White,120,3.332,4.19,0.795,3.835,0.869,DESCRIPTIVE_only
+Qwen2.5,ablit,race,Black,120,3.078,4.35,0.708,4.249,0.724,DESCRIPTIVE_only
+Qwen2.5,ablit,race,Hispanic,120,3.269,4.2,0.778,4.154,0.787,DESCRIPTIVE_only
+Qwen2.5,ablit,race,Asian,120,3.23,3.07,1.052,3.011,1.073,DESCRIPTIVE_only
+Qwen2.5,ablit,race,Multiracial,120,2.981,4.5,0.663,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi3med,base,ses,Low,200,2.146,5.9,0.364,4.885,0.439,DESCRIPTIVE_only
+Phi3med,base,ses,Middle,200,2.32,5.5,0.422,3.955,0.587,DESCRIPTIVE_only
+Phi3med,base,ses,High,200,2.635,4.7,0.561,3.085,0.854,DESCRIPTIVE_only
+Phi3med,base,gender,Cisgender Man,150,3.159,4.3,0.735,3.585,0.881,DESCRIPTIVE_only
+Phi3med,base,gender,Cisgender Woman,150,2.853,5.1,0.559,4.192,0.681,DESCRIPTIVE_only
+Phi3med,base,gender,Transgender Man,150,2.647,6.2,0.427,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi3med,base,gender,Transgender Woman,150,2.779,5.7,0.488,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi3med,base,race,White,120,3.01,4.19,0.718,3.835,0.785,DESCRIPTIVE_only
+Phi3med,base,race,Black,120,3.015,4.35,0.693,4.249,0.71,DESCRIPTIVE_only
+Phi3med,base,race,Hispanic,120,2.635,4.2,0.627,4.154,0.634,DESCRIPTIVE_only
+Phi3med,base,race,Asian,120,2.947,3.07,0.96,3.011,0.979,DESCRIPTIVE_only
+Phi3med,base,race,Multiracial,120,2.786,4.5,0.619,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi3med,ablit,ses,Low,200,1.643,5.9,0.279,4.885,0.336,DESCRIPTIVE_only
+Phi3med,ablit,ses,Middle,200,1.733,5.5,0.315,3.955,0.438,DESCRIPTIVE_only
+Phi3med,ablit,ses,High,200,1.875,4.7,0.399,3.085,0.608,DESCRIPTIVE_only
+Phi3med,ablit,gender,Cisgender Man,150,1.743,4.3,0.405,3.585,0.486,DESCRIPTIVE_only
+Phi3med,ablit,gender,Cisgender Woman,150,1.79,5.1,0.351,4.192,0.427,DESCRIPTIVE_only
+Phi3med,ablit,gender,Transgender Man,150,1.838,6.2,0.296,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi3med,ablit,gender,Transgender Woman,150,1.827,5.7,0.321,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Phi3med,ablit,race,White,120,1.625,4.19,0.388,3.835,0.424,DESCRIPTIVE_only
+Phi3med,ablit,race,Black,120,1.859,4.35,0.427,4.249,0.438,DESCRIPTIVE_only
+Phi3med,ablit,race,Hispanic,120,1.73,4.2,0.412,4.154,0.417,DESCRIPTIVE_only
+Phi3med,ablit,race,Asian,120,1.738,3.07,0.566,3.011,0.577,DESCRIPTIVE_only
+Phi3med,ablit,race,Multiracial,120,1.999,4.5,0.444,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Llama3.1,base,ses,Low,200,3.598,5.9,0.61,4.885,0.737,DESCRIPTIVE_only
+Llama3.1,base,ses,Middle,200,3.998,5.5,0.727,3.955,1.011,DESCRIPTIVE_only
+Llama3.1,base,ses,High,200,4.241,4.7,0.902,3.085,1.375,DESCRIPTIVE_only
+Llama3.1,base,gender,Cisgender Man,150,4.464,4.3,1.038,3.585,1.245,DESCRIPTIVE_only
+Llama3.1,base,gender,Cisgender Woman,150,4.436,5.1,0.87,4.192,1.058,DESCRIPTIVE_only
+Llama3.1,base,gender,Transgender Man,150,4.329,6.2,0.698,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Llama3.1,base,gender,Transgender Woman,150,3.802,5.7,0.667,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Llama3.1,base,race,White,120,4.205,4.19,1.004,3.835,1.096,DESCRIPTIVE_only
+Llama3.1,base,race,Black,120,4.311,4.35,0.991,4.249,1.015,DESCRIPTIVE_only
+Llama3.1,base,race,Hispanic,120,4.318,4.2,1.028,4.154,1.039,DESCRIPTIVE_only
+Llama3.1,base,race,Asian,120,4.228,3.07,1.377,3.011,1.404,DESCRIPTIVE_only
+Llama3.1,base,race,Multiracial,120,4.724,4.5,1.05,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Llama3.1,ablit,ses,Low,200,3.148,5.9,0.534,4.885,0.644,DESCRIPTIVE_only
+Llama3.1,ablit,ses,Middle,200,2.268,5.5,0.412,3.955,0.573,DESCRIPTIVE_only
+Llama3.1,ablit,ses,High,200,2.426,4.7,0.516,3.085,0.786,DESCRIPTIVE_only
+Llama3.1,ablit,gender,Cisgender Man,150,3.312,4.3,0.77,3.585,0.924,DESCRIPTIVE_only
+Llama3.1,ablit,gender,Cisgender Woman,150,3.796,5.1,0.744,4.192,0.906,DESCRIPTIVE_only
+Llama3.1,ablit,gender,Transgender Man,150,3.409,6.2,0.55,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Llama3.1,ablit,gender,Transgender Woman,150,3.502,5.7,0.614,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Llama3.1,ablit,race,White,120,3.49,4.19,0.833,3.835,0.91,DESCRIPTIVE_only
+Llama3.1,ablit,race,Black,120,3.573,4.35,0.821,4.249,0.841,DESCRIPTIVE_only
+Llama3.1,ablit,race,Hispanic,120,3.539,4.2,0.843,4.154,0.852,DESCRIPTIVE_only
+Llama3.1,ablit,race,Asian,120,3.685,3.07,1.2,3.011,1.224,DESCRIPTIVE_only
+Llama3.1,ablit,race,Multiracial,120,3.505,4.5,0.779,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+DeepSeekR1,base,ses,Low,200,4.798,5.9,0.813,4.885,0.982,DESCRIPTIVE_only
+DeepSeekR1,base,ses,Middle,199,4.592,5.5,0.835,3.955,1.161,DESCRIPTIVE_only
+DeepSeekR1,base,ses,High,200,4.696,4.7,0.999,3.085,1.522,DESCRIPTIVE_only
+DeepSeekR1,base,gender,Cisgender Man,150,5.672,4.3,1.319,3.585,1.582,DESCRIPTIVE_only
+DeepSeekR1,base,gender,Cisgender Woman,150,5.052,5.1,0.991,4.192,1.205,DESCRIPTIVE_only
+DeepSeekR1,base,gender,Transgender Man,150,5.347,6.2,0.862,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+DeepSeekR1,base,gender,Transgender Woman,149,5.337,5.7,0.936,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+DeepSeekR1,base,race,White,120,5.772,4.19,1.378,3.835,1.505,DESCRIPTIVE_only
+DeepSeekR1,base,race,Black,119,5.716,4.35,1.314,4.249,1.345,DESCRIPTIVE_only
+DeepSeekR1,base,race,Hispanic,120,4.697,4.2,1.118,4.154,1.131,DESCRIPTIVE_only
+DeepSeekR1,base,race,Asian,120,5.481,3.07,1.785,3.011,1.82,DESCRIPTIVE_only
+DeepSeekR1,base,race,Multiracial,120,5.223,4.5,1.161,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+DeepSeekR1,ablit,ses,Low,200,3.792,5.9,0.643,4.885,0.776,DESCRIPTIVE_only
+DeepSeekR1,ablit,ses,Middle,200,3.613,5.5,0.657,3.955,0.913,DESCRIPTIVE_only
+DeepSeekR1,ablit,ses,High,200,4.245,4.7,0.903,3.085,1.376,DESCRIPTIVE_only
+DeepSeekR1,ablit,gender,Cisgender Man,150,4.406,4.3,1.025,3.585,1.229,DESCRIPTIVE_only
+DeepSeekR1,ablit,gender,Cisgender Woman,150,3.94,5.1,0.773,4.192,0.94,DESCRIPTIVE_only
+DeepSeekR1,ablit,gender,Transgender Man,150,3.325,6.2,0.536,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+DeepSeekR1,ablit,gender,Transgender Woman,150,3.955,5.7,0.694,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+DeepSeekR1,ablit,race,White,120,3.842,4.19,0.917,3.835,1.002,DESCRIPTIVE_only
+DeepSeekR1,ablit,race,Black,120,4.387,4.35,1.008,4.249,1.032,DESCRIPTIVE_only
+DeepSeekR1,ablit,race,Hispanic,120,3.83,4.2,0.912,4.154,0.922,DESCRIPTIVE_only
+DeepSeekR1,ablit,race,Asian,120,4.242,3.07,1.382,3.011,1.409,DESCRIPTIVE_only
+DeepSeekR1,ablit,race,Multiracial,120,3.28,4.5,0.729,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Yi1.5,base,ses,Low,200,2.921,5.9,0.495,4.885,0.598,DESCRIPTIVE_only
+Yi1.5,base,ses,Middle,200,3.697,5.5,0.672,3.955,0.935,DESCRIPTIVE_only
+Yi1.5,base,ses,High,200,3.37,4.7,0.717,3.085,1.092,DESCRIPTIVE_only
+Yi1.5,base,gender,Cisgender Man,150,3.968,4.3,0.923,3.585,1.107,DESCRIPTIVE_only
+Yi1.5,base,gender,Cisgender Woman,150,3.828,5.1,0.751,4.192,0.913,DESCRIPTIVE_only
+Yi1.5,base,gender,Transgender Man,150,3.459,6.2,0.558,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Yi1.5,base,gender,Transgender Woman,150,3.818,5.7,0.67,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Yi1.5,base,race,White,120,3.851,4.19,0.919,3.835,1.004,DESCRIPTIVE_only
+Yi1.5,base,race,Black,120,3.768,4.35,0.866,4.249,0.887,DESCRIPTIVE_only
+Yi1.5,base,race,Hispanic,120,3.571,4.2,0.85,4.154,0.86,DESCRIPTIVE_only
+Yi1.5,base,race,Asian,120,3.994,3.07,1.301,3.011,1.326,DESCRIPTIVE_only
+Yi1.5,base,race,Multiracial,120,4.164,4.5,0.925,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Yi1.5,ablit,ses,Low,200,4.119,5.9,0.698,4.885,0.843,DESCRIPTIVE_only
+Yi1.5,ablit,ses,Middle,200,3.959,5.5,0.72,3.955,1.001,DESCRIPTIVE_only
+Yi1.5,ablit,ses,High,200,4.098,4.7,0.872,3.085,1.328,DESCRIPTIVE_only
+Yi1.5,ablit,gender,Cisgender Man,150,3.991,4.3,0.928,3.585,1.113,DESCRIPTIVE_only
+Yi1.5,ablit,gender,Cisgender Woman,150,4.215,5.1,0.827,4.192,1.006,DESCRIPTIVE_only
+Yi1.5,ablit,gender,Transgender Man,150,4.35,6.2,0.702,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Yi1.5,ablit,gender,Transgender Woman,150,4.36,5.7,0.765,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
+Yi1.5,ablit,race,White,120,4.325,4.19,1.032,3.835,1.128,DESCRIPTIVE_only
+Yi1.5,ablit,race,Black,120,4.201,4.35,0.966,4.249,0.989,DESCRIPTIVE_only
+Yi1.5,ablit,race,Hispanic,120,4.107,4.2,0.978,4.154,0.989,DESCRIPTIVE_only
+Yi1.5,ablit,race,Asian,120,4.429,3.07,1.443,3.011,1.471,DESCRIPTIVE_only
+Yi1.5,ablit,race,Multiracial,120,4.304,4.5,0.957,UNBENCHMARKABLE,DROPPED,WITHDRAWN_no_v2_GT
